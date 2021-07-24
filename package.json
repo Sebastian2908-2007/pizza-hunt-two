@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Sebastian2908-2007/pizza-hunt-two#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "mongoose": "^5.13.3"
   }
 }
